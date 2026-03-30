@@ -1,6 +1,7 @@
 import os
 
-print("Bienvenido al juego del laberinto")
+print("Bienvenido al juego del laberinto, espero que les guste")
+#Esto se empezo de esta manera XDE
 
 while True:
     opcion = input("Escribe 'jugar' para empezar o 'salir' para terminar: ").strip().lower()
