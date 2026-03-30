@@ -1,5 +1,5 @@
 import os
-
+#Hola
 print("Bienvenido al juego del laberinto")
 
 while True:
