@@ -2,6 +2,9 @@ import random
 import os
 import time
 
+
+
+#Aca ya vole que paja jacer la chamba
 def colocar_coleccionables(matriz, cantidad=None):
     caminos = [(i, j) for i in range(len(matriz))
                for j in range(len(matriz[0])) if matriz[i][j] == 0] #Esto crea una lista de todas las celdas (i, j) de la matriz que son caminos transitables
