@@ -1,6 +1,15 @@
+
 import os
+<<<<<<< HEAD
 #Hola
 print("Bienvenido al juego del laberinto")
+=======
+
+
+print("Bienvenido al juego del laberinto, espero que les guste")
+#Esto se empezo de esta manera XDE
+
+>>>>>>> 6c5ac5f993230c3316719487de2ad858381174ad
 
 while True:
     opcion = input("Escribe 'jugar' para empezar o 'salir' para terminar: ").strip().lower()
